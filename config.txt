@@ -1,0 +1,6 @@
+owner=516473846983950336
+prefix=$
+game= SCP | $play
+stayinchannel=true
+songinstatus=false
+token="NTY3NzE5OTA4MjE4MTA5OTYz.XLXpmQ.ruUUA4sunx1wkCT32lrYdgAxKN8"

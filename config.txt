@@ -3,4 +3,4 @@ prefix=$
 game= SCP | $play
 stayinchannel=true
 songinstatus=false
-token="NTY3NzE5OTA4MjE4MTA5OTYz.XLXuTQ.a9qifpAfGk3MrPNgKO6VN8gFaIE"
+token=NTY3NzE5OTA4MjE4MTA5OTYz.XLXuTQ.a9qifpAfGk3MrPNgKO6VN8gFaIE
